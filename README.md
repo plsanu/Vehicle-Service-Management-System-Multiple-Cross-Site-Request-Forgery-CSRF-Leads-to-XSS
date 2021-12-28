@@ -12,7 +12,7 @@ Vehicle Service Management System - 'Multiple' Cross-Site Request Forgery (CSRF)
 ### CVE : 
 ### Google Dork: N/A
 ### Reference: 
-
+- https://www.plsanu.com/vehicle-service-management-system-multiple-cross-site-request-forgery-csrf-leads-to-stored-cross-site-scripting-xss
 - https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS
 
 ### 1. Vehicle Service Management System - 'Mechanic List' (/admin/?page=mechanics)
